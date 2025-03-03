@@ -9,3 +9,4 @@ donde se muestre los proyecto y experiencia en el ambito front-end
 ## cambios en el proyecto
 
 subiendo los primeros archivos a github
+creando el navegador principal de la pagina web
