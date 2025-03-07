@@ -11,9 +11,12 @@ body{
 
 header{
 	font-family:Arial;
+	background-color: black;
 }
 
 nav{
+	padding-top: 1em;
+	padding-bottom: 1em;
 	font-family:Arial;
 	display: flex;
 	justify-content: space-between;
@@ -23,7 +26,13 @@ nav a{
 	font-family:Arial;
 	text-transform: uppercase;
 	text-decoration: none;
-	color: black;
+	color: white;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+nav a:hover{
+	color: violet;
 }
 
 section{
@@ -33,11 +42,34 @@ section{
 section h1{
 	font-family:Arial;
 	font-size: 1.8em;
-	padding-bottom: 1em;
+	padding-top: 2em;
 }
 
 section p{
 	font-family:Arial;
 	font-size: 1.2em;
+}
+
+#sobre-mi {
+	padding-top: 1em;
 	padding-bottom: 1em;
 }
+
+#proyectos {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+#contacto {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+

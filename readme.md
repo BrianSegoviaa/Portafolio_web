@@ -14,3 +14,6 @@ se crea el archivo estilo de la pagina web
 creando la navegacion y agregando una imagen de portada
 se agrega la secciones a la pagina
 empezando a dar los estilos del sitio
+se mejora el estilo del navegador
+se agregaron nueva secciones al sitio web
+se agrego un link para que me encuentre mandar mensaje por linkelind
