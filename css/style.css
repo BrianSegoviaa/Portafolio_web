@@ -53,16 +53,25 @@ section p{
 #sobre-mi {
 	padding-top: 1em;
 	padding-bottom: 1em;
+	padding-left: 1em;
+	padding-right: 1em;
+	text-align: justify;
 }
 
 #proyectos {
 	padding-top: 1em;
 	padding-bottom: 1em;
+	padding-left: 1em;
+	padding-right: 1em;
+	text-align: justify;
 }
 
 #contacto {
 	padding-top: 1em;
 	padding-bottom: 1em;
+	text-align: justify;
+	padding-left: 1em;
+	padding-right: 1em;
 }
 
 footer{
@@ -73,3 +82,7 @@ footer{
 	padding-bottom: 1em;
 }
 
+footer p{
+	font-family:Arial;
+	text-transform: uppercase;
+}

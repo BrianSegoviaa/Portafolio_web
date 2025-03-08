@@ -17,3 +17,5 @@ empezando a dar los estilos del sitio
 se mejora el estilo del navegador
 se agregaron nueva secciones al sitio web
 se agrego un link para que me encuentre mandar mensaje por linkelind
+se modifico algunos cosa como los espacio
+y los estilos
